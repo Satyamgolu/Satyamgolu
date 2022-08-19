@@ -29,5 +29,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=satyamgolu&show_icons=true&locale=en&layout=compact" alt="satyamgolu" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satyamgolu&show_icons=true&locale=en" alt="satyamgolu" /></p>
-<img align="right" alt="hello world!" width="250" height="300" src="https://media.giphy.com/media/ndM7oIOjaDQOhMKtF3/giphy.gif">
+<img align="right" alt="hello world!" width="250" height="200" src="https://media.giphy.com/media/ndM7oIOjaDQOhMKtF3/giphy.gif">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satyamgolu&" alt="satyamgolu" /></p>
