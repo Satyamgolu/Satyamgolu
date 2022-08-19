@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyamgolu&label=Profile%20views&color=0e75b6&style=flat" alt="satyamgolu" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satyamgolu" alt="satyamgolu" /></a> </p>
-<img align="right" alt="coding" width="350" height="400" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif">
+<img align="right" alt="coding" width="350" height="440" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif">
 
 - 🌱 I’m currently learning **React.js, mongodb, git**
 
