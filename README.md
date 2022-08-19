@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyamgolu&label=Profile%20views&color=0e75b6&style=flat" alt="satyamgolu" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satyamgolu" alt="satyamgolu" /></a> </p>
-<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif">
+<img align="right" alt="coding" width="350" height="500" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif">
 
 - 🌱 I’m currently learning **React.js, mongodb, git**
 
@@ -28,5 +28,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=satyamgolu&show_icons=true&locale=en&layout=compact" alt="satyamgolu" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satyamgolu&show_icons=true&locale=en" alt="satyamgolu" /></p>
-<img align="right" alt="hello world!" width="250" height="200" src="https://media.giphy.com/media/ndM7oIOjaDQOhMKtF3/giphy.gif">
+<img align="right" alt="hello world!" width="350" height="400" src="https://media.giphy.com/media/ndM7oIOjaDQOhMKtF3/giphy.gif">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satyamgolu&" alt="satyamgolu" /></p>
